@@ -35,7 +35,7 @@ Se já possui um arquivo `composer.json`, basta adicionar a seguinte dependênci
 
 ```json
 "require": {
-    "developercielo/api-3.0-php": "^1.0"
+    "csweb/cielo-api-3.0": "^1.0"
 }
 ```
 
