@@ -4,7 +4,7 @@
 Essa lib substitui o antigo SDK da cielo, que foi removido de sua organização oficial.
 Não oferecemos suporte à nada, apenas estamos disponibilizando o package novamente para uso interno.
 
-🔥 Use por sua conta e risco.
+🔥 __Use por sua conta e risco.__
 
 SDK API-3.0 PHP
 
@@ -48,7 +48,7 @@ composer install
 Alternativamente, você pode executar diretamente em seu terminal:
 
 ```
-composer require "developercielo/api-3.0-php"
+composer require "csweb/cielo-api-3.0"
 ```
 
 ## Produtos e Bandeiras suportadas e suas constantes
